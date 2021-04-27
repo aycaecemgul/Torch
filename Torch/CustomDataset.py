@@ -28,7 +28,7 @@ from torchvision.io import read_image
 import  cv2
 from torch.utils.data import DataLoader
 
-img_dir="C:\\Users\\aycae\\OneDrive\\Belgeler\\GitHub\\Torch\\Main\\best-artworks-of-all-time"
+img_dir= "/\\best-artworks-of-all-time"
 categories = ["Edgar_Degas","Pablo_Picasso","Vincent_van_Gogh"]
 IMG_SIZE=250
 
